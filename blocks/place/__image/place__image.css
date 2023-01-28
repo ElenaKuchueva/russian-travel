@@ -1,0 +1,19 @@
+.place__image {
+  display: block;
+ width: 100%;
+ max-width: 460px;
+}
+
+@media all and (max-width: 644px) {
+    .place__image {
+      margin: 0;
+      width: 100vw;
+      padding: 0 1rem;
+    }
+}
+
+@media all and (max-width: 492px) {
+  .place__image {
+    padding: 0;
+  }
+}
