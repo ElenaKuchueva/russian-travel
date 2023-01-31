@@ -1,11 +1,10 @@
 .intro {
   max-width: 984px;
-  min-height: 429px;
   margin: auto;
   display: flex;
 }
  @media all and (max-width: 1279px) {
   .intro {
-    max-width: 90%;
+    max-width: 94%;
   }
  }

@@ -8,14 +8,24 @@
 
 }
 
+@media all and (max-width: 1279px) {
+  .places {
+    max-width: 928px;
+  }
+}
+
 @media all and (max-width: 1023px) {
   .places {
-    max-width: 90%;
+    max-width: 720px;
+    padding: 88px 0 90px 0;
+    row-gap: 73px;
   }
 }
 
 @media all and (max-width: 644px) {
   .places {
     margin: 0;
+    padding: 64px 0 65px 0;
+    row-gap: 50px;
   }
 }

@@ -9,19 +9,21 @@
 
 @media all and (max-width: 1279px) {
   .photo-grid {
-    max-width: 90%;
+    max-width: 928px;
     gap: 14px;
   }
 }
 
 @media all and (max-width: 1023px) {
   .photo-grid {
+    max-width: 720px;
     gap: 1rem;
   }
 }
 
 @media all and (max-width: 767px) {
   .photo-grid {
+    max-width: 90%;
     gap: 12px;
     justify-items: stretch;
   }

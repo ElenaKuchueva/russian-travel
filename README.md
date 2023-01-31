@@ -11,5 +11,5 @@
 * Используется grid-layout.  
 * Сайт ориентирован для слабовидящией категории лиц.   
 * Верстка адаптивна; брейкпоинты установлены на 1279px , 1023px , 767px , 320px.  
-* [GitHub Pages]()
+* [GitHub Pages](https://elenakuchueva.github.io/russian-travel/index.html)
 
