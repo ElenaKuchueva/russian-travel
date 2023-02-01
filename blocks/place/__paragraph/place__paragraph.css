@@ -7,10 +7,6 @@
   margin: 0;
 }
 
-.place__paragraph:first-of-type {
-  padding-bottom: 26px;
-}
-
 @media all and (max-width: 1023px) {
   .place__paragraph {
     font-size: 16px;
@@ -21,11 +17,5 @@
 @media all and (max-width: 645px) {
   .place__paragraph {
     padding: 0 1rem;
-  }
-}
-
-@media all and (max-width: 645px ) {
-  .place__paragraph:first-of-type {
-    padding-bottom: 25px;
   }
 }
