@@ -2,6 +2,8 @@
 
 Эксукурс по уголкам России, с возможность детального изучения, через переход по ссылкам.
 
+[Сcылка на проект на GitHub Pages](https://elenakuchueva.github.io/russian-travel/index.html)
+
 * [Проект выполнен по макету из фигмы](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0).  
 * Иерархия  блоков задается методом БЭМ Nested.  
 * Каждый блок импортирован с помощью css-директивы @import.  
@@ -11,5 +13,5 @@
 * Используется grid-layout.  
 * Сайт ориентирован для слабовидящией категории лиц.   
 * Верстка адаптивна; брейкпоинты установлены на 1279px , 1023px , 767px , 320px.  
-* [GitHub Pages](https://elenakuchueva.github.io/russian-travel/index.html)
+* 
 
